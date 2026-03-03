@@ -69,13 +69,21 @@ CONSUMODEAPIS/
 
 ---
 
+## Requisitos
+
+- Python 3.13+
+- pip
+- Conexión a internet (para consumir la API externa)
+
+---
+
 ## Instalación y ejecución
 
 1. Clonar el repositorio:
 
 ```bash
-git clone <tu-repo-url>
-cd random-quote-app
+git clone https://github.com/nomomaxoff/Generador-de-Frases.git
+cd Generador-de-Frases
 ```
 
 2. Instalar dependencias:
