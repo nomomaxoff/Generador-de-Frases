@@ -27,6 +27,7 @@ CONSUMODEAPIS/
 │
 ├── app.py
 ├── README.md
+├── .gitattributes
 ├── static/
 │   ├── script.js
 │   └── style.css
