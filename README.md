@@ -1,4 +1,4 @@
-# Random Quote Generator
+# Generador de frases aleatorias
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-3.1-green?style=flat)](https://flask.palletsprojects.com/)
