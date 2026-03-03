@@ -1,7 +1,7 @@
 # Generador de frases aleatorias
 
-[![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-3.1-green?style=flat)](https://flask.palletsprojects.com/)
+[![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python&logoColor=blue)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-3.1-green?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
